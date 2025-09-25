@@ -1,0 +1,308 @@
+Additional Reading Link - Coursera DevOps, DataOps, MLOps
+*********************************************************
+
+MODULE 1 - Into to MLOps
+------------------------
+
+https://circleci.com/blog/ci-for-machine-learning/
+
+This article goes over the importance of automated testing, and setting up CircleCI to help accommodate that process. 
+Additionally it also provides the starter code to get you up and running with CircleCI, and links to useful documentation about further utilization of the service.
+
+
+https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model?WT.mc_id=academic-0000-alfredodeza
+
+This article outlines the MLOps maturity model, which clarifies the important processes, technologies, and people that are present in progressively more mature MLOps environments. 
+It's beneficial to understand what might be required to successfully implement and maintain an MLOps environment of a given maturity.
+
+
+https://cloud.google.com/architecture/devops
+
+This article explains the organizational and technical benefits of implementing a Continuous Delivery workflow. 
+Additionally, it illustrates some of the typical obstacles that organizations have to implementing a CD workflow, and proposes practical approaches to overcome them.
+
+
+https://learn.microsoft.com/en-us/azure/machine-learning/how-to-monitor-datasets?tabs=python&view=azureml-api-1
+
+This article explains the concept of data drift, and some workflows to help analyze and mitigate it. 
+Additionally, it gives some example code and step by step instructions for utilizing some Azure Machine Learning workflows to help mitigate data drift in your own models.
+
+
+https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects.html
+
+This is a link to the Amazon Sagemaker projects page, which is a subsection of the Amazon Sagemaker developer guide that can walk you through step by step instructions on using Sagemaker to create any number of MLOps projects.
+More than anything, this is useful documentation to come back to when you'd like to create a Sagemaker MLOps project.
+
+
+https://learn.microsoft.com/en-us/azure/databricks/machine-learning/feature-store/
+
+This short article explains what exactly a feature store is, and some of the benefits of Microsoft's Databricks feature store in particular.
+Additionally, it links to a number of useful APIs and example notebooks that can give you some hands-on practice to illustrate the value of feature stores. 
+
+-----
+
+https://paiml.com/docs/home/books/minimal-python/chapter06-build-web-apps-flask/
+
+This is a chapter from a book authored by this course's instructors!
+It walks you through using the Flask web framework to create a web application that can use your python code. If you follow along with these instructions, you'll wind up with a functional web app.
+
+
+https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/machine-learning-operations-v2
+
+MLOps with Azure Machine Learning offers an efficient way to manage the entire machine learning lifecycle. By following this reading, students will learn how to create reproducible models, reusable training pipelines, and simplify model packaging, validation, and deployment.
+Moreover, they will gain insights into best practices for quality control, A/B testing, and automating the retraining process. 
+This knowledge will help students improve the quality and consistency of their machine learning solutions, making them better prepared for real-world applications.
+
+
+https://www.f5.com/company/blog/nginx/introduction-to-microservices
+
+This article introduces the concept of Microservices, as well as the benefits and drawbacks of using a microsystem-based approach.
+Understanding these kinds of systems gives a lot of insight into how many large web applications function, and helps solve the problem of scalability within systems you may design.
+
+
+https://cloud.google.com/appengine/docs/standard/go/building-app
+
+This tutorial will take you through the process of making a bare-bones Go App using google's AppEngine and Google Cloud. 
+Using this free service will give you experience in deploying an application and using AppEngine to manage your deployments.
+
+
+https://docs.aws.amazon.com/apprunner/latest/dg/getting-started.html
+
+This documentation is an introduction to Amazon's App Runner, which is a system that allows you to turn a container or source code into a web service using AWS. 
+This is just a cursory overview of using App Runner to deploy whatever application you've made, and when you're creating web applications it will be important for you to consider which delivery method or product best suits your use case.
+
+
+https://docs.github.com/en/actions/get-started/understand-github-actions
+
+This is the full documentation for Github actions, so you can choose to dive in as deeply as you desire. 
+Github actions is a platform that can help you manage your continuous integration/continuous delivery pipelines, and configure workflows to trigger whenever specific events occur in a given repository, among other advanced functionality.  
+
+###########################################################################################################################################################
+
+MODULE 2 - Essential Math and Data Science
+------------------------------------------
+
+https://paiml.com/docs/home/books/minimal-python/chapter07-data-science-pandas/
+This textbook chapter will introduce you to the streamlined data science workflow that we use, in addition to the Pandas library, which is one of the most useful tools for doing data science with python.
+
+https://paiml.com/docs/home/books/minimal-python/chapter08-data-science-libraries/
+This textbook chapter walks you through using some of the most common libraries that are used for data science with python.
+More than anything, it's an introduction that you can use as a reference for how you might use these (and other) libraries in the future.
+
+https://developers.google.com/earth-engine/guides/python_install-colab
+This article and example Colab notebook walks you through importing the Google Earth Python API into your own Colab notebook, as well as having you do some of the steps of Exploratory Data Analysis on your own. 
+The steps of exploring and plotting your data are integral to data science, and learning these workflows can help you in future data science applications.
+
+https://cloud.google.com/tpu/docs/colabs
+This article is simply a repository for a whole group of colab notebooks that are designed to provide examples and let you interact with Google's Clout TPUs (or tensor processing units) to understand how you might leverage AI services in your own workflows.
+
+https://colab.research.google.com/drive/1jPhYOyvweOJVW3Engci6GcnVEGd_UhGI
+Part 1.1 focuses on introductory concepts such as procedural statements, data structures, strings, and arithmetic operations. It also covers Python dictionaries, lists, and sets, and how to use them effectively.
+Part 1.2 delves into functions, including writing functions, function arguments, closures, partial functions, generators, decorators, and lambdas.
+
+https://colab.research.google.com/drive/1dmTMM-zmGToCmcaedyNj93X-dLZeg2KG#scrollTo=4J2lIggJLUMS
+This colab notebook walks through many of the basic parts of writing python, and serves as a very cursory overview of the important parts of the python language that you'll need to understand to do meaningful python projects.
+
+https://colab.research.google.com/drive/1sORrIFB8t9NbW9Nhko-EgFI1HWOKwn28#scrollTo=qhdbSG-xtuPU
+This colab notebook walks through using the Pandas library to do input/output operations. 
+These are integral to data science and data engineering applications, as most people will tend to work with large bits of data in something like a Jupyter notebook, but you must understand file operations before you're able bring your dataset into that environment.
+
+https://colab.research.google.com/drive/1hl0aHbJqoJIyC1P3OwK9UljP7bupTKEv#scrollTo=lujOt1rIipPQ
+This colab notebook walks you through the process of using a myriad of Amazon Web Services in collaboration with your own colab notebooks to be able to start to build out a project that leverages AI APIs and ML workflows.
+
+https://github.com/noahgift/functional_intro_to_python#additional-topics
+These resources cover a wide range of topics, including Python programming recipes, immutability, managed machine learning systems, Internet of Things, and best practices in software development.
+
+-----------
+https://github.com/nogibjj/Coursera-MLOps-C2-lab4-greedy-optimization
+This GitHub repo features a lab called "Greedy Optimization," aimed at teaching students how to enhance command-line tools and scripts for improved performance and functionality. 
+
+https://github.com/noahgift/tornado_rabbitmq_linear_optimization/blob/master/README.md
+The assigned article presents an insightful introduction to linear optimization using the Pyomo library in Python. However, it is important to note that the code examples provided are outdated. 
+Students should focus on understanding the underlying concepts and principles of linear optimization, rather than relying on the specific code implementations presented. 
+
+https://developer.ibm.com/languages/python/
+
+https://github.com/noahgift/or
+
+https://developers.google.com/machine-learning/problem-framing
+In this assigned reading, you'll learn how to assess whether machine learning (ML) is a suitable approach for addressing a specific problem. 
+This course, provided by Google, covers essential concepts and techniques for outlining an ML solution. 
+You'll gain valuable insights into the initial stages of designing and implementing ML solutions.
+
+------------
+https://github.com/noahgift/core-stats-datascience
+The "Core Statistics for Data Science" tutorial is an interactive learning resource that features a repository full of Jupyter Notebooks.
+These notebooks cover a wide range of data science topics, including data science workflow, supervised learning trends, clustering, GMM, PCA, recommendations, and network analysis
+
+https://cloud.google.com/resources/mlops-whitepaper?hl=en
+The "Practitioner's Guide to Machine Learning Operations (MLOps)" offers an overview of the MLOps life cycle, focusing on essential processes and capabilities for successful ML-based systems. 
+Students will learn about continuous training pipelines, model deployment, data management, and model governance, gaining valuable insights into managing ML projects and enhancing their MLOps skills.
+
+https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_Chips.ipynb
+This interactive tutorial takes students through some of the current issues in computer hardware related to machine learning, such as vectorized code and custom silicon.
+
+https://developers.google.com/machine-learning/clustering
+This course on clustering provides students with valuable hands-on experience in data preparation, similarity measures, and the k-means algorithm for clustering data. 
+
+https://developers.google.com/machine-learning/intro-to-ml
+Welcome to Introduction to Machine Learning, a concise 20-minute course that provides an introduction to the foundational concepts of machine learning (ML).
+
+https://developers.google.com/machine-learning/glossary
+As a student in the Coursera course, you can frequently use the Machine Learning Glossary as a valuable supplementary resource. 
+This glossary provides definitions for general machine learning terms as well as terms specific to TensorFlow
+
+https://developers.google.com/machine-learning/crash-course
+Students can use the Machine Learning Crash Course with TensorFlow APIs as a complementary resource to their main Coursera course.
+While you don't need to complete the entire Crash Course, it offers an excellent opportunity to randomly explore new lessons and expand your knowledge
+
+##################################################################################################################################################
+
+MODULE 3 - Operations Pipelines: DevOps, DataOps, MLOps
+-------------------------------------------------------
+
+https://github.com/readme/guides/mlops-education
+In this Machine Learning Operations (MLOps) video Guide, you'll learn how to utilize GitHub for maximizing developer efficiency and product innovation. 
+The guide covers four major benefits: reproducibility (via GitHub Codespaces), access to machine learning technology, AI coding assistance, and CI/CD capabilities.
+
+https://docs.github.com/en/codespaces/about-codespaces/what-are-codespaces
+Introduces the concept of GitHub Codespaces to students and shows them the core benefits of developing with them.
+
+https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers
+Introduces the concept of configurable GitHub Dev Containers and shows them the core benefits of configuring workspaces with them.
+
+https://github.com/nogibjj/mlops-template
+This repository provides a template for MLOps projects with GPU support. It uses the recommended tools from the Python Software Foundation, such as virtualenv, pip, and Docker, for a streamlined setup. 
+
+----------
+
+https://docs.google.com/presentation/d/1tvHVXe_cWSGeOKB84pCCfMsm4_OlLOj_/edit?pli=1&slide=id.p1#slide=id.p1
+This reading takes the student through an official AWS tutorial on using AWS messaging services.
+
+https://docs.databricks.com/aws/en/dev-tools/databricks-utils#file-system-utility-dbutilsfs
+Databricks Utilities (dbutils) provide a powerful set of tools to help you perform various tasks efficiently within notebooks. 
+These utilities can be used to interact with object storage, chain and parameterize notebooks, and manage secrets. 
+Keep in mind that dbutils are not supported outside of notebooks and should not be used within executors, as they may produce unexpected results. 
+For more information on the limitations of dbutils and potential alternatives, refer to the Limitations section.
+
+https://github.com/aws-samples/lambda-refarch-fileprocessing
+The Real-time File Processing reference architecture is a versatile, event-driven, parallel data processing system utilizing AWS Lambda, designed for workloads requiring multiple data derivatives of an object. 
+In the example provided, interview notes in Markdown format are delivered to S3. S3 Events trigger multiple processing flows, including one that converts and stores Markdown files as HTML, and another that detects and stores sentiment information.
+This architecture is ideal for applications that demand real-time file processing and parallel data processing capabilities.
+
+https://github.com/aws-samples/aws-cdk-examples
+The AWS CDK Examples repository offers a collection of example projects for the AWS Cloud Development Kit (CDK), divided into sections for each supported language. 
+These examples demonstrate common service implementations and infrastructure patterns to help you use the CDK effectively when building your own infrastructure. 
+The repository is considered an intermediate learning resource and is best utilized after reviewing the Developer Guide or CDK Workshop. 
+
+----------
+
+https://paiml.com/docs/home/books/minimal-python/chapter03-create-functions/
+Chapter 3 of this book focuses on creating functions in Python, emphasizing that functions are essential in modern Python programming, especially in cloud and machine learning contexts. 
+Functions can be applied to diverse and complex problems with just a few lines of code. 
+Examples discussed include functions with no input or return, functions that return without accepting input, and functions that accept input without returning. 
+By understanding how functions work, beginners can unlock the potential of Python programming for various applications, such as Pandas DataFrames, AWS Lambda, or even creating web services.
+A well-designed function, which accepts input and returns some value, is crucial for building complex systems.
+
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview
+Azure Functions is a serverless solution that enables developers to focus on writing code while the cloud infrastructure handles deployment and maintenance. 
+It provides compute resources on-demand to meet the fluctuating demands of applications, making it cost-effective and highly scalable. 
+Azure Functions can be used for various scenarios such as web APIs, file processing, serverless workflows, database changes, scheduled tasks, message queue systems, IoT data streams, real-time data processing, and SQL database connections.
+
+https://github.com/alfredodeza/rust-azure-function
+This repository provides a sample Rust application that can be deployed to Azure Functions using GitHub Actions, with Visual Studio Code recommended for development. 
+The project demonstrates continuous deployment to Azure Functions with Rust, streamlining the development process. 
+To get started, the following prerequisites are needed: an Azure account, Rust, Azure Functions Core Tools, Visual Studio Code, and the Azure Functions extension for Visual Studio Code.
+Additionally, the repository is Codespaces ready, allowing users to work directly from GitHub, only requiring an Azure account. For more information on Azure, refer to the Azure documentation.
+
+https://docs.google.com/presentation/d/1lAa88cZrYjrC1cnj-rwgiintsK9HO16R/edit?slide=id.p1#slide=id.p1
+This powerpoint presentation covers how AWS thinks about event driven services on AWS
+
+https://github.com/google/python-fire
+Python Fire is a versatile library that automatically generates command line interfaces (CLIs) from any Python object. 
+It simplifies the creation of CLIs in Python, aids in developing and debugging code, and facilitates exploring and converting existing code into a CLI. 
+Additionally, Python Fire eases the transition between Bash and Python and enhances Python REPL usage by preloading necessary modules and variables.
+
+#############################################################################################################################################################
+
+MODULE 4 - End to end MLOps and AIOps
+--------------------------------------
+
+https://paiml.com/docs/home/books/cloud-computing-for-data/chapter03-virtualization-containers-elasticity/
+A reading on virtualization and elasticity that provides a foundational overview of cloud computing concepts.
+
+https://github.com/GoogleContainerTools/distroless
+The official GitHub Repo for distroless containers that reduce the size of container images.
+
+https://github.com/alfredodeza/rust-distroless-azure
+A Rust example project that uses distroless container technology to deploy Rust to Azure.
+
+https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-container-image.html
+Documentation showing how to build and use container images on ECS.
+
+https://learn.microsoft.com/en-gb/azure/azure-functions/create-first-function-vs-code-other?tabs=go%2Cmacos&WT.mc_id=academic-0000-alfredodeza
+An official Microsoft reading on how to use Azure Functions with Rust
+
+https://docs.google.com/presentation/d/1uBlq4CMeQSffU3wwyU0xRrSR7buud20t/edit?slide=id.p1#slide=id.p1
+AWS official powerpoint presentation discussing container technology.
+
+--------
+
+https://docs.github.com/en/copilot
+
+https://docs.aws.amazon.com/cloud9/latest/user-guide/welcome.html
+
+https://platform.openai.com/docs/quickstart
+
+https://githubnext.com/projects/copilot-labs
+
+--------
+
+https://githubnext.com/projects/copilot-labs
+
+https://developers.google.com/machine-learning/gan
+
+https://platform.openai.com/docs/concepts
+
+https://www.tensorflow.org/tutorials/images/transfer_learning
+
+#################################################################################################################################################################
+
+MODULE 5 - Rust for MLOps, The Practical Transition
+---------------------------------------------------
+
+https://learn.microsoft.com/en-gb/training/browse/?WT.mc_id=academic-0000-alfredodeza
+
+https://learn.microsoft.com/en-gb/training/browse/?WT.mc_id=academic-0000-alfredodeza
+
+https://nogibjj.github.io/rust-tutorial/chapter_1.html
+
+https://doc.rust-lang.org/stable/book/ch01-00-getting-started.html
+
+https://aws.amazon.com/blogs/storage/the-inside-story-on-mountpoint-for-amazon-s3-a-high-performance-open-source-file-client/
+
+https://aws.amazon.com/blogs/opensource/sustainability-with-rust/
+
+--------
+
+https://github.com/nogibjj/rust-mlops-template
+
+https://github.com/LaurentMazare/tch-rs
+
+https://github.com/LaurentMazare/diffusers-rs
+
+https://onnx.ai/onnx/intro/
+
+https://aws.amazon.com/blogs/compute/using-amazon-efs-for-aws-lambda-in-your-serverless-applications/
+
+https://docs.google.com/document/d/1Zp3K384gFMYYMx7nKCoWxTdLNv7KVaywivrGge7opnA/edit?tab=t.0
+
+--------
+
+https://www.cargo-lambda.info/
+
+https://github.com/awslabs/aws-sdk-rust
+
+https://firecracker-microvm.github.io/
+
+https://github.blog/engineering/the-technology-behind-githubs-new-code-search/
